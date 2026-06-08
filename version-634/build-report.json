@@ -1,0 +1,12 @@
+{
+  "parsed_movies": 2000,
+  "html_files": 2015,
+  "movie_detail_pages": 2000,
+  "videos_page_cards": 2000,
+  "category_pages": 10,
+  "category_page_cards_total": 2000,
+  "analytics_all_html": true,
+  "player_pages_with_hls_source": 2000,
+  "missing_internal_links_count": 0,
+  "missing_internal_links_sample": []
+}
